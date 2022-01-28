@@ -1,0 +1,4 @@
+Passcodes: star ship and eclipse
+Participation: Came to class in-person and asked a question in class
+Self directed learning: Completed all codecademy lessons
+Project update: Designed my calculator layout, started working on the JavaScript and html, and am working on the logic to connect them. Lots of trial and error and Googling, but it's moving forward. 
