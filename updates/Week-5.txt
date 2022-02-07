@@ -1,1 +1,3 @@
 Passcodes: Chariot and Notebook
+Participation: Had camera on in class and went to office hours.
+Project update: Finished the calculator.  Struggled with the JavaScript but was able to finish it with help from Google and YouTube.  Made sure I understand why things work and didn't just copy and paste. 
