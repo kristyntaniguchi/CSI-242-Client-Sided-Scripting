@@ -1,0 +1,3 @@
+Passcodes: toad and deep
+Participation: Camera on in class and asked questions in office hours.
+Project update: I was sick most of last week, but I've watched a few YouTube videos on different JavaScript games (snake, Mario, connect four) and using Kaboom.  I haven't decided on what game to make yet and have been mainly seeing how the code works so far. 
