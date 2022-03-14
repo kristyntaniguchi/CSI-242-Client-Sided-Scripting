@@ -1,1 +1,3 @@
 Passcodes: Ball Python
+Participation: Came to class in person and asked a question in office hours.
+Project: Have the HTML and CSS done for my game, but will probably be making more additions as I go. Am working on the JavaScript and using w3school as a resource. 
